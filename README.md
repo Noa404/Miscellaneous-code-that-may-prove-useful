@@ -3,4 +3,4 @@ This repository will contain all code from my time in the DTSC 300 course. There
 
 # About Me
 
-Hi my name is Noah and I am currently a Junior at Duquesne University and a Data Science Major. Throughout this semester and for who knows how long 
+Hi my name is Noah and I am currently a Junior at Duquesne University and a Data Science Major. Throughout this semester I will be putting class code and notes into this repository.
