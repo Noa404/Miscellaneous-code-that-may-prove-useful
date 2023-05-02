@@ -5,4 +5,4 @@ This repository will contain all code from my time in the DTSC 300 course. There
 
 Hi my name is Noah and I am currently a Junior at Duquesne University and a Data Science Major. Throughout this semester I will be putting class code and notes into this repository.
 
-""" Iam just testing this """
+
